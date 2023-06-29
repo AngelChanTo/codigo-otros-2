@@ -17,6 +17,10 @@ body {
   border-radius: 5px;
 }
 
+.boton-enviar{
+  margin: 10px;
+}
+
 .error {
   background-color: red;
 }
